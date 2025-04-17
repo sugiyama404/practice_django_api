@@ -3,6 +3,7 @@ services:
     build: ./apserver
     container_name: django
     command: python manage.py runserver 0.0.0.0:8000
+    working_dir: /app/myproject
     volumes:
       - ./apserver:/app
     tty: true

@@ -1,0 +1,52 @@
+[
+    {
+        "model": "todos.todo",
+        "pk": 1,
+        "fields": {
+            "content": "Nagaoka",
+            "created_at": "2025-04-17T00:00:00+09:00",
+            "updated_at": "2025-04-17T00:00:00+09:00",
+            "deleted_at": null
+        }
+    },
+    {
+        "model": "todos.todo",
+        "pk": 2,
+        "fields": {
+            "content": "Tanaka",
+            "created_at": "2025-04-17T00:00:00+09:00",
+            "updated_at": "2025-04-17T00:00:00+09:00",
+            "deleted_at": null
+        }
+    },
+    {
+        "model": "todos.todo",
+        "pk": 3,
+        "fields": {
+            "content": "Yamamoto",
+            "created_at": "2025-04-17T00:00:00+09:00",
+            "updated_at": "2025-04-17T00:00:00+09:00",
+            "deleted_at": null
+        }
+    },
+    {
+        "model": "todos.todo",
+        "pk": 4,
+        "fields": {
+            "content": "Kawasaki",
+            "created_at": "2025-04-17T00:00:00+09:00",
+            "updated_at": "2025-04-17T00:00:00+09:00",
+            "deleted_at": null
+        }
+    },
+    {
+        "model": "todos.todo",
+        "pk": 5,
+        "fields": {
+            "content": "Kudo",
+            "created_at": "2025-04-17T00:00:00+09:00",
+            "updated_at": "2025-04-17T00:00:00+09:00",
+            "deleted_at": null
+        }
+    }
+]

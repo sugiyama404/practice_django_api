@@ -195,7 +195,6 @@ cython_debug/
 # Icon must end with two \r
 Icon
 
-
 # Thumbnails
 ._*
 
@@ -310,5 +309,7 @@ poetry.toml
 
 # LSP config files
 pyrightconfig.json
+
+memo.txt
 
 # End of https://www.toptal.com/developers/gitignore/api/django,python,git,macos
